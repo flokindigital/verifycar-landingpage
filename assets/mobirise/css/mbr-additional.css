@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 3.4rem;
+  font-size: 3rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.25rem;
+  font-size: 3.75rem;
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 2.72rem;
+    font-size: 2.4rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.38rem;
-    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.1rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
@@ -1069,11 +1069,11 @@ a {
   }
 }
 .cid-sUkrxl4cJU .mbr-section-title {
-  color: #40b38d;
+  color: #353535;
 }
 .cid-sUkrxl4cJU .mbr-text,
 .cid-sUkrxl4cJU .mbr-section-btn {
-  color: #353535;
+  color: #424a4d;
 }
 .cid-sQshJUAB4D {
   padding-top: 1rem;
