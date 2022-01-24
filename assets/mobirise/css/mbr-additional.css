@@ -680,14 +680,8 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sQrALrtseL {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-sQrALrtseL nav.navbar {
-  position: fixed;
+.cid-sQrALrtseL .navbar-dropdown {
+  position: relative !important;
 }
 .cid-sQrALrtseL .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1011,7 +1005,6 @@ a {
 }
 .cid-sQrALrtseL .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-sQrALrtseL a.nav-link {
   display: flex;
@@ -1059,7 +1052,7 @@ a {
 .cid-sUkrxl4cJU {
   padding-top: 5rem;
   padding-bottom: 3rem;
-  background-color: #fafafa;
+  background-color: #222526;
 }
 .cid-sUkrxl4cJU .image-wrap img {
   width: 100%;
@@ -1072,11 +1065,11 @@ a {
   }
 }
 .cid-sUkrxl4cJU .mbr-section-title {
-  color: #353535;
+  color: #ffffff;
 }
 .cid-sUkrxl4cJU .mbr-text,
 .cid-sUkrxl4cJU .mbr-section-btn {
-  color: #424a4d;
+  color: #ffffff;
 }
 .cid-sQshJUAB4D {
   padding-top: 1rem;
@@ -1119,6 +1112,9 @@ a {
 .cid-sQshJUAB4D .mbr-text,
 .cid-sQshJUAB4D .mbr-section-btn {
   color: #353535;
+}
+.cid-sQshJUAB4D .card-title {
+  color: #40b38d;
 }
 .cid-sUjmwNN8ya {
   padding-top: 0rem;
@@ -1203,11 +1199,11 @@ a {
   justify-content: center;
 }
 .cid-sUjonTztEy .mbr-section-title {
-  color: #353535;
+  color: #40b38d;
 }
 .cid-sUjonTztEy .card-title,
 .cid-sUjonTztEy .iconfont-wrapper {
-  color: #40b38d;
+  color: #424a4d;
 }
 .cid-sUjjsgzBe0 {
   padding-top: 7rem;
@@ -1217,7 +1213,7 @@ a {
 .cid-sUkhWKYo2p {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-sUkhWKYo2p img,
 .cid-sUkhWKYo2p .item-img {
@@ -1261,7 +1257,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sUkhWKYo2p .mbr-section-title {
-  color: #232323;
+  color: #40b38d;
 }
 .cid-sUkhWKYo2p .mbr-text,
 .cid-sUkhWKYo2p .mbr-section-btn {
@@ -1362,6 +1358,10 @@ a {
   .cid-sQshj6RYkP .content-column {
     margin-bottom: 2rem;
   }
+}
+.cid-sQshj6RYkP .mbr-section-title,
+.cid-sQshj6RYkP .card-box {
+  color: #424a4d;
 }
 .cid-sQrC13kvxO {
   padding-top: 4rem;
