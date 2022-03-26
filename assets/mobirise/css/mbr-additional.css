@@ -683,6 +683,9 @@ a {
 .cid-sQrALrtseL .navbar-dropdown {
   position: relative !important;
 }
+.cid-sQrALrtseL .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sQrALrtseL .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -786,8 +789,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
 }
 .cid-sQrALrtseL .navbar.opened {
   transition: all 0.3s;
@@ -813,7 +815,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sQrALrtseL .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5.4rem);
   }
 }
 .cid-sQrALrtseL .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1050,9 +1052,9 @@ a {
   text-align: center;
 }
 .cid-sUkrxl4cJU {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #222526;
+  padding-top: 9rem;
+  padding-bottom: 7rem;
+  background-image: url("../../../assets/images/lexus-engine-failure.jpeg");
 }
 .cid-sUkrxl4cJU .image-wrap img {
   width: 100%;
@@ -1444,7 +1446,7 @@ a {
 .cid-sQrAY09jID {
   padding-top: 6rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sQrAY09jID .mbr-overlay {
   background-color: #ffffff;
@@ -1469,24 +1471,8 @@ a {
 .cid-sQrAY09jID H5 {
   color: #40b38d;
 }
-.cid-sQsrySmfea {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sQsrySmfea .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sQsrySmfea .row {
-  flex-direction: row-reverse;
-}
-.cid-sQsrySmfea img {
-  width: 100%;
-}
 .cid-p5WjkoU62l {
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-p5WjkoU62l .wave1 {
   fill: #40b38d;
