@@ -1054,7 +1054,7 @@ a {
 .cid-sUkrxl4cJU {
   padding-top: 9rem;
   padding-bottom: 7rem;
-  background-image: url("../../../assets/images/lexus-engine-failure.jpeg");
+  background-image: url("../../../assets/images/blog-what-is-the-right-amount.jpeg");
 }
 .cid-sUkrxl4cJU .image-wrap img {
   width: 100%;
@@ -1072,6 +1072,11 @@ a {
 .cid-sUkrxl4cJU .mbr-text,
 .cid-sUkrxl4cJU .mbr-section-btn {
   color: #ffffff;
+}
+.cid-sUkrxl4cJU .red-block {
+  background: #000000;
+  box-shadow: -1px 13px 2px #000000 20;
+  line-height: 1.5em;
 }
 .cid-sQshJUAB4D {
   padding-top: 1rem;
@@ -1274,7 +1279,7 @@ a {
 .cid-sQrBwrWh2U {
   padding-top: 5rem;
   padding-bottom: 3rem;
-  background-color: #424a4d;
+  background-color: #40b38d;
 }
 .cid-sQrBwrWh2U .mbr-section-title {
   color: #ffffff;
