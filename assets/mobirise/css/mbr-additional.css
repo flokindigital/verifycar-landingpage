@@ -1648,3 +1648,72 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-7Ou85Oeiwy .subsection {
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(1) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-1920x1276.jpg?v=1NGTLS");
+  text-align: center !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(1) .overlay1 {
+  z-index: -1;
+  background: linear-gradient(0deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(2) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-1-1920x1280.jpg?v=1NGTLS");
+  text-align: left !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(2) .overlay2 {
+  z-index: -1;
+  background: linear-gradient(60deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(3) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-2-1920x1280.jpg?v=1NGTLS");
+  text-align: right !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(3) .overlay3 {
+  z-index: -1;
+  background: linear-gradient(120deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(4) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-1920x1277.jpg?v=1NGTLS");
+  text-align: right !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(4) .overlay4 {
+  z-index: -1;
+  background: linear-gradient(180deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(5) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-1920x1297.jpg?v=1NGTLS");
+  text-align: left !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(5) .overlay5 {
+  z-index: -1;
+  background: linear-gradient(240deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(6) {
+  background-image: url("https://r.mobirisesite.com/201592/assets/images/mbr-1665x1080.jpg?v=1NGTLS");
+  text-align: center !important;
+}
+.cid-7Ou85Oeiwy .subsection:nth-child(6) .overlay6 {
+  z-index: -1;
+  background: linear-gradient(300deg, #4479d9, #e43f3f);
+  opacity: 0.6;
+}
+.cid-7Ou85Oeiwy .mbr-section-title {
+  color: #e43f3f;
+}
+.cid-7Ou85Oeiwy .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-7Ou85Oeiwy .mbr-text,
+.cid-7Ou85Oeiwy .mbr-section-btn {
+  color: #ffffff;
+}
